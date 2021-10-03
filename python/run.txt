@@ -1,0 +1,6 @@
+
+
+
+1.run getData.py to get the data from the dataloader
+2.run main.cpp to get the prediction
+3.run prediction.py to get the argmax
